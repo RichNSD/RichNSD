@@ -5,14 +5,14 @@
 
 <br />
 
----
-
-## [ Look a Sub-Header ]
-
-[ Insert Submissive Body Content ]
 
 
-<br />
+## [ Look a *Sub*-Header ]
+
+[ Insert __Submissive__ Body Content ]
+
+
+<br /><br />
 
 ---
 
@@ -40,3 +40,9 @@ $ GitHubSetup($1)
 
 $ _
 ```
+
+<br />
+
+###### "Does he realize...?"
+
+> <i>"[ Insert __Submissive__ Body Content ]"</i>
