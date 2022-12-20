@@ -7,13 +7,6 @@
 
 ---
 
-# [ Something Yet-to-Exist ]
-
-[ More *really* interesting content ]
-
-
-<br />
-
 ## [ Look a Sub-Header ]
 
 [ Insert Submissive Body Content ]
