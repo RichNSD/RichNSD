@@ -1,10 +1,49 @@
-- 👋 Hi, I’m @RichNSD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# [ Interesting Header ]
 
-<!---
-RichNSD/RichNSD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[ Captivating Introduction ]
+
+
+<br />
+
+---
+
+# [ Something Yet-to-Exist ]
+
+[ More *really* interesting content ]
+
+
+<br />
+
+## [ Look a Sub-Header ]
+
+[ Insert Submissive Body Content ]
+
+
+<br />
+
+---
+
+# Code Blocks?
+
+Why not!
+
+### The Function
+```bash
+function GitHubSetup() {
+    cd /mnt/d/scripts/github
+    
+    . ./profile-setup.sh
+}
+```
+
+### Output
+```bash
+$ GitHubSetup($1)
+
+    Uncooperative-Error:
+        "Nah... I don't really *feel* like it."
+        
+    [ Press any key to PISS-OFF ]
+
+$ _
+```
