@@ -43,6 +43,10 @@ $ _
 
 <br />
 
-###### "Does he realize...?"
+##### "Does he realize...?"
 
-> <i>"[ Insert __Submissive__ Body Content ]"</i>
+<!-- > <i>"[ Insert __Submissive__ Body Content ]"</i> -->
+
+> <small><em>"[ ...Insert __Submissive__ Body.. ]"</em></small>
+
+
