@@ -12,7 +12,7 @@
 [ Insert some __*[Submissive](https://github.com/RichNSD#should-someone-tell-him)*__ Body Content ]
 
 
-<br /><br />
+<br />
 
 ---
 
