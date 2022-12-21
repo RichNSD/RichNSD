@@ -16,9 +16,11 @@
 
 ---
 
-# Code Blocks?
+# Want Code Blocks?
 
-Why not!
+"Absolutely!"
+<!-- the Unbalanced Developer says in 
+yet *another* imaginary dialogue with himself -->
 
 ### The Function
 ```bash
