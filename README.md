@@ -18,7 +18,7 @@
 
 # Want Code Blocks?
 
-"Absolutely!"
+> __*"Absolutely!"*__
 <!-- the Unbalanced Developer says in 
 yet *another* imaginary dialogue with himself -->
 
