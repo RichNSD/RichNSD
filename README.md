@@ -35,10 +35,10 @@ function GitHubSetup() {
 ```bash
 $ GitHubSetup($1)
 
-    Uncooperative-Error:
-        "Nah... I don't really *feel* like it."
+  Uncooperative-Error:
+    "Nah... I don't really *feel* like it."
         
-    [ Press any key to PISS-OFF ]
+  [ Press any key to PISS-OFF ]
 
 $ _
 ```
