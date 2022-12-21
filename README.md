@@ -7,9 +7,9 @@
 
 
 
-## [ Look a *Sub*-Header ]
+## [ Look a *[Sub](https://github.com/RichNSD#should-someone-tell-him)*-Header ]
 
-[ Insert some __*Submissive*__ Body Content ]
+[ Insert some __*[Submissive](https://github.com/RichNSD#should-someone-tell-him)*__ Body Content ]
 
 
 <br /><br />
@@ -25,7 +25,7 @@ Why not!
 function GitHubSetup() {
     cd /mnt/d/scripts/github
     
-    . ./profile-setup.sh
+    . './profile-setup.sh'
 }
 ```
 
