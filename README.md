@@ -7,9 +7,9 @@
 
 
 
-## Look a *[Sub](https://github.com/RichNSD#should-someone-tell-him)*-Header
+## Look a *[Sub](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*-Header!
 
-[ Insert some __*[Submissive](https://github.com/RichNSD#should-someone-tell-him)*__ Body Content ]
+[ Insert some __*[Submissive](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*__ Body Content ]
 
 
 <br />
@@ -48,11 +48,13 @@ $ _
 
 ###### Random Strangers on my (incomplete) GitHub Profile:
 
-🙂 😳
+🙂 → 🤨 → 🧐...🤔 → 😳
+
+<br />
 
 > <small><em>"...Insert __Submissive__ Body-"</em></small>
 
-<small>Don't worry. I'm aware.
+<small><small>and don't worry, I'm well aware</small></small>
 
 ##### [Trust Me :wink:](https://matias.ma/nsfw/)</small>
 
