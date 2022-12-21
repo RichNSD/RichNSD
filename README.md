@@ -7,7 +7,7 @@
 
 
 
-## [ Look a *[Sub](https://github.com/RichNSD#should-someone-tell-him)*-Header ]
+## Look a *[Sub](https://github.com/RichNSD#should-someone-tell-him)*-Header
 
 [ Insert some __*[Submissive](https://github.com/RichNSD#should-someone-tell-him)*__ Body Content ]
 
@@ -45,7 +45,8 @@ $ _
 
 <br />
 
-##### "Should someone tell him...?"
+
+##### 😳 "Should... someone tell him?"
 
 > <small><em>"...Insert __Submissive__ Body-"</em></small>
 
