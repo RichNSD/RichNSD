@@ -9,7 +9,7 @@
 
 ## [ Look a *Sub*-Header ]
 
-[ Insert __*Submissive*__ Body Content ]
+[ Insert some __*Submissive*__ Body Content ]
 
 
 <br /><br />
@@ -43,10 +43,10 @@ $ _
 
 <br />
 
-##### "Does he realize...?"
+##### "Should someone tell him...?"
 
-<!-- > <i>"[ Insert __Submissive__ Body Content ]"</i> -->
+> <small><em>"...Insert __Submissive__ Body-"</em></small>
 
-> <small><em>"[ ...Insert __Submissive__ Body.. ]"</em></small>
+<small>Don't worry. I'm aware. :wink:</small>
 
 
