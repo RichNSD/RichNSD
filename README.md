@@ -47,6 +47,8 @@ $ _
 
 > <small><em>"...Insert __Submissive__ Body-"</em></small>
 
-<small>Don't worry. I'm aware. :wink:</small>
+<small>Don't worry. I'm aware.
+
+##### [Trust Me :wink:](https://matias.ma/nsfw/)</small>
 
 
