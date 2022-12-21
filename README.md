@@ -46,7 +46,9 @@ $ _
 <br />
 
 
-##### 😳 "Should... someone tell him?"
+###### Random Strangers on my (incomplete) GitHub Profile:
+
+🙂 😳
 
 > <small><em>"...Insert __Submissive__ Body-"</em></small>
 
