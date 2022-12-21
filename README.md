@@ -48,14 +48,12 @@ $ _
 
 ###### Random Strangers on my (incomplete) GitHub Profile:
 
+> <small><em>"...Insert __Submissive__ Body-"</em></small>
+
 🙂 → 🤨 → 🧐...🤔 → 😳
 
 <br />
 
-> <small><em>"...Insert __Submissive__ Body-"</em></small>
-
-<small><small>and don't worry, I'm well aware</small></small>
-
-##### [Trust Me :wink:](https://matias.ma/nsfw/)</small>
+<small><small>And don't worry. I'm well aware<br /> [Trust Me :wink:](https://matias.ma/nsfw/)</small></small>
 
 
