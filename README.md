@@ -9,7 +9,7 @@
 
 ## [ Look a *Sub*-Header ]
 
-[ Insert __Submissive__ Body Content ]
+[ Insert __*Submissive*__ Body Content ]
 
 
 <br /><br />
