@@ -2,9 +2,8 @@
 
 > __Note__
 >
-> A *real* README is coming eventually. Until then, enjoy the following which was made for the purpose of my own amusement.
->
-> ...or don't. I guess you can feel free to be grumpy too, whatever floats your boat.
+> A *real* README is coming eventually. Until then, enjoy the following which was made for the purpose of my own amusement. <br />
+> <small>...or don't. I guess you can feel free to be grumpy too, whatever floats your boat.</small>
 >
 > ` ¯\_(ツ)_/¯ `
 
