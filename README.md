@@ -2,10 +2,11 @@
 
 > __Note__
 >
-> A *real* README is coming eventually. Until then, enjoy the following which was made for the purpose of my own amusement. <br />
-> <small>...or don't. I guess you can feel free to be grumpy too, whatever floats your boat.</small>
+> A __*real*__ README, packed full of interesting and useful information, is coming eventually *(probably)*. 😎
 >
-> ` ¯\_(ツ)_/¯ `
+> Until then, I hope you enjoy the following placeholder which was made entirely with whatever nonsense popped into my head, for the sole purpose of my own amusement. :slightly_smiling_face: <br />
+>
+> ...or don't enjoy it. I guess you can feel free to be grumpy too, whatever makes you happy(?). 🤷‍♂️
 
 # [ Interesting Header ]
 
@@ -57,12 +58,12 @@ $ _
 
 ###### Random Strangers on my (incomplete) GitHub Profile:
 
-> <small><em>"...Insert __Submissive__ Body-"</em></small>
+> <em>"...Insert __Submissive__ Body-"</em>
 
 🙂 → 🤨 → 🧐...🤔 → 😳
 
 <br />
 
-<small><small>And don't worry. I'm well aware<br /> [Trust Me :wink:](https://matias.ma/nsfw/)</small></small>
+And don't worry. I'm well aware<br /> [Trust Me :wink:](https://matias.ma/nsfw/)
 
 
