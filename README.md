@@ -8,9 +8,9 @@
 >
 > ...or don't enjoy it. I guess you can feel free to be grumpy too, whatever makes you happy(?). 🤷‍♂️
 
-# [ Interesting Header ]
+# Interesting Header
 
-[ Captivating Introduction ]
+[ Imagine a captivating introduction ]
 
 
 <br />
@@ -19,7 +19,7 @@
 
 ## Look a *[Sub](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*-Header!
 
-[ Insert some __*[Submissive](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*__ Body Content ]
+[ Imagine some interesting __*[Submissive](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*__ body content ]
 
 
 <br />
@@ -29,7 +29,7 @@
 # Want Code Blocks?
 
 > __*"Absolutely!"*__ <br />
-> &nbsp;&nbsp;&nbsp; *(Voice, "Richard's Imagination" page 8)*
+> &nbsp;&nbsp;&nbsp; *(Disembodied Voice, "Richard's Imagination" page 8)*
 <!-- the Unbalanced Developer™ says in 
 yet *another* imaginary dialogue with himself -->
 
@@ -38,18 +38,18 @@ yet *another* imaginary dialogue with himself -->
 function GitHubSetup() {
     cd /mnt/d/scripts/github
     
-    . './profile-setup.sh'
+    . './cool-profile-setup.sh'
 }
 ```
 
 ### Output
 ```bash
-$ GitHubSetup($1)
+$ GitHubSetup(Automatic)
 
   Uncooperative-Error:
-    "Nah... I don't really *feel* like it."
+    "Nah... I'm not feelin' it."
         
-  [ Press any key to PISS-OFF ]
+  [ Press any key to give up ]
 
 $ _
 ```
