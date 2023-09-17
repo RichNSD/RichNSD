@@ -59,12 +59,12 @@ $ _
 
 ###### Random Strangers on my (incomplete) GitHub Profile:
 
-> <em>"...Insert __Submissive__ Body-"</em>
-
 🙂 → 🤨 → 🧐...🤔 → 😳
 
 <br />
 
-And don't worry. I'm well aware<br /> [Trust Me :wink:](https://matias.ma/nsfw/)
+And yes, all subtext was intentional.
+
+But it's not as bad as you think.<br /> [Trust Me :wink:](https://matias.ma/nsfw/)
 
 
