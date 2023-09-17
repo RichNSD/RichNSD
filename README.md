@@ -59,7 +59,7 @@ $ _
 
 ###### Random Strangers on my (incomplete) GitHub Profile:
 
-🙂 → 🤨 → 🧐...🤔 → 😳
+> 🙂 → 🤨 → 🧐...🤔 → 😳
 
 <br />
 
