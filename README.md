@@ -1,59 +1,20 @@
-# [ Interesting Header ]
+# Hello, World! I'm Richard 👋
 
-[ Captivating Introduction ]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithub.username.yourgithub.username)
 
+## About Me
 
-<br />
+I'm an IT engineer from Newton, NJ, who can't decide whether to conquer the world of tech or just fix it when it breaks. 🌍💻 
 
+By day, I delve into the mysteries of support, system admin, and cybersecurity; by night, I transform into a coding ninja, trying not to get beaten up by my own code.
 
+- 🛠️ **What I do:** IT Support, Systems Admin, Cybersecurity, and I occasionally rescue kittens from digital trees.
+- 🌱 **Currently Learning:** Full-stack web development, UX enhancement, and how not to hate VIM (even though I won't use it).
+- 📫 **How to reach me:** [Insert Your Email Here]
+- ⚡ **Fun fact:** The most efficient file backup system I've ever scripted was done using Notepad and ROBOCOPY, a utility that's almost 30 years old, and it probably still functions after 10 years without maintenance.
 
-## Look a *[Sub](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*-Header!
+## My Toolbox
 
-[ Insert some __*[Submissive](https://github.com/RichNSD/RichNSD/edit/main/README.md#random-strangers-on-my-incomplete-github-profile)*__ Body Content ]
-
-
-<br />
-
----
-
-# Want Code Blocks?
-
-> __*"Absolutely!"*__
-<!-- the Unbalanced Developer™ says in 
-yet *another* imaginary dialogue with himself -->
-
-### The Function
-```bash
-function GitHubSetup() {
-    cd /mnt/d/scripts/github
-    
-    . './profile-setup.sh'
-}
+```text
+VSCode | GitHub | Windows | Linux | Adobe Suite
 ```
-
-### Output
-```bash
-$ GitHubSetup($1)
-
-  Uncooperative-Error:
-    "Nah... I don't really *feel* like it."
-        
-  [ Press any key to PISS-OFF ]
-
-$ _
-```
-
-<br />
-
-
-###### Random Strangers on my (incomplete) GitHub Profile:
-
-> <small><em>"...Insert __Submissive__ Body-"</em></small>
-
-🙂 → 🤨 → 🧐...🤔 → 😳
-
-<br />
-
-<small><small>And don't worry. I'm well aware<br /> [Trust Me :wink:](https://matias.ma/nsfw/)</small></small>
-
-
