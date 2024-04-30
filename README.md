@@ -1,6 +1,6 @@
 # Hello, World! I'm Richard 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithub.username.yourgithub.username)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithub.username.yourgithub.username) -->
 
 ## About Me
 
@@ -10,7 +10,7 @@ By day, I delve into the mysteries of support, system admin, and cybersecurity; 
 
 - 🛠️ **What I do:** IT Support, Systems Admin, Cybersecurity, and I occasionally rescue kittens from digital trees.
 - 🌱 **Currently Learning:** Full-stack web development, UX enhancement, and how not to hate VIM (even though I won't use it).
-- 📫 **How to reach me:** [Insert Your Email Here]
+- 📫 **How to reach me:** [rjoubert@nsd.team](mailto:rjoubert@nsd.team)
 - ⚡ **Fun fact:** The most efficient file backup system I've ever scripted was done using Notepad and ROBOCOPY, a utility that's almost 30 years old, and it probably still functions after 10 years without maintenance.
 
 ## My Toolbox
