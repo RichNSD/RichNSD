@@ -1,20 +1,18 @@
-# Hello, World! I'm Richard 👋
+### 🚀 Welcome to My GitHub!
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yourgithub.username.yourgithub.username) -->
+Hey there! I'm Richard, an automation enthusiast and web tinkerer who enjoys scripting my way out of repetitive tasks. I specialize in **PowerShell** and **Bash**, with side quests in **Python** and **HTML/CSS/JavaScript** for web-based projects.
 
-## About Me
+### 🔧 What I Do
+- **Automation & Scripting** – Because computers should do the boring stuff.
+- **Web Development** – Occasionally making the internet a better (or at least weirder) place.
+- **Problem-Solving** – Finding creative ways to turn “it’s impossible” into “done.”
 
-I'm an IT engineer from Newton, NJ, who can't decide whether to conquer the world of tech or just fix it when it breaks. 🌍💻 
+### 📌 Current Goals
+- Expanding my portfolio with more **automation projects**.
+- Diving deeper into **cloud automation** and DevOps practices.
+- Refining my **web development skills** with modern frameworks.
 
-By day, I delve into the mysteries of support, system admin, and cybersecurity; by night, I transform into a coding ninja, trying not to get beaten up by my own code.
-
-- 🛠️ **What I do:** IT Support, Systems Admin, Cybersecurity, and I occasionally rescue kittens from digital trees.
-- 🌱 **Currently Learning:** Full-stack web development, UX enhancement, and how not to hate VIM (even though I won't use it).
-- 📫 **How to reach me:** [rjoubert@nsd.team](mailto:rjoubert@nsd.team)
-- ⚡ **Fun fact:** The most efficient file backup system I've ever scripted was done using Notepad and ROBOCOPY, a utility that's almost 30 years old, and it probably still functions after 10 years without maintenance.
-
-## My Toolbox
-
-```text
-VSCode | GitHub | Windows | Linux | Adobe Suite
-```
+### 📫 Let's Connect!
+Have a cool project idea? Need some automation help? Feel free to reach out:
+- **[LinkedIn](https://www.linkedin.com/in/richard-joubert-643ab6221/)**
+- **Carrier Pigeon** (Response times may vary.)
