@@ -1,16 +1,19 @@
-### 🚀 Welcome to My GitHub!
+### Welcome!
 
-Hey there! I'm Richard, an automation enthusiast and web tinkerer who enjoys scripting my way out of repetitive tasks. I specialize in **PowerShell** and **Bash**, with side quests in **Python** and **HTML/CSS/JavaScript** for web-based projects.
+I'm an IT Systems Engineer with over 15 years of experience across several industries from media production to healthcare and a couple dozen others in between.
 
-### 🔧 What I Do
-- **Automation & Scripting** – Because computers should do the boring stuff.
-- **Web Development** – Occasionally making the internet a better (or at least weirder) place.
-- **Problem-Solving** – Finding creative ways to turn “it’s impossible” into “done.”
+### My Experience
 
-### 📌 Current Goals
-- Expanding my portfolio with more **automation projects**.
-- Diving deeper into **cloud automation** and DevOps practices.
-- Refining my **web development skills** with modern frameworks.
+All of my coding experience is self-taught. I have a pretty solid foundation in scripting and automation across all operating systems using Bash and PowerShell, most of which comes from me solving a problem nobody noticed, or because I found a task so monotonous I didn't want to do it myself anymore. I found automating out the monotony was the most educational of the two.
+
+Beyond IT-related scripting and CLI experience, I have a fair amount of experience in web development, mostly front-end with a little back-end.
+
+I also have a significant amount of experience with programming, training, and troubleshooting third-party LLM-based chatbots.
+
+### Goals
+
+Right now I'm working to improve my coding and development skills, particularly around JavaScript-based applications.
+
 
 ### 📫 Let's Connect!
 Have a cool project idea? Need some automation help? Feel free to reach out:
